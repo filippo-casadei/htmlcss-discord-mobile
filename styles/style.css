@@ -36,5 +36,18 @@ body {
   text-align: center;
   line-height: 0.9;
   font-size: 45px;
+  margin-top: -20px;
+  margin-bottom: 10px;
 }
 
+
+.paragrafo-primo {
+  font-family: "DM Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 100;
+  font-style: normal;
+  text-align: center;
+  color: white;
+  margin-left: 60px;
+  margin-right: 60px;
+}
