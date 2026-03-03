@@ -118,3 +118,15 @@ body {
     width: 90%;
     max-width: 500px;
 }
+
+.paragrafo-sinistra {
+   font-family: "DM Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    text-align: left;
+    color: white;
+    margin-right: 60px;
+    line-height: 1.2;
+    font-size: 21px; 
+}
