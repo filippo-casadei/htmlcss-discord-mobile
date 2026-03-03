@@ -64,7 +64,18 @@ body {
     margin-top: 0;
 }
 
-.pulsante {
+.pulsante-primo {
+    background-color: white;
+    padding: 15px 60px;
+    border-radius: 8px;
+    font-family: "DM Sans";
+    font-size: 20px;
+    text-align: center;
+    cursor: pointer;
+    width: 400px;
+}
+
+.pulsante-secondo {
     background-color: white;
     padding: 15px 60px;
     border-radius: 8px;
