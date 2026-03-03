@@ -65,6 +65,7 @@ body {
 }
 
 .pulsante-primo {
+    position: relative;
     background-color: white;
     padding: 15px 60px;
     border-radius: 8px;
@@ -85,4 +86,13 @@ body {
     text-align: center;
     cursor: pointer;
     width: 400px;
+}
+
+.icona {
+    position: absolute;
+    left: 70px;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 5%;
+    height: 40%;
 }
