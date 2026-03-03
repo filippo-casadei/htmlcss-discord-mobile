@@ -110,6 +110,7 @@ body {
 }
 
 .sezione-card {
+    position: relative;
     border: 2px solid rgba(255,255,255,0);
     border-radius: 12px;
     padding: 25px;
@@ -137,4 +138,20 @@ body {
     border-radius: 12%;
     padding: 20px;
     margin-top: 26px;
+}
+
+.streamer-demo {
+    width: 100%;
+    max-width: 512px;
+    border-radius: 12%;
+    padding: 20px;
+    margin-top: 26px;
+}
+
+.icona-discord {
+    position: absolute;
+    top: -7%;
+    left: 10%;
+    width: 100px;
+    height: 100px;
 }
