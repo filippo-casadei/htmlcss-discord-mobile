@@ -33,5 +33,7 @@ body {
   font-style: normal;
   color: white;
   text-align: center;
+  line-height: 0.9;
+  font-size: 45px;
 }
 
