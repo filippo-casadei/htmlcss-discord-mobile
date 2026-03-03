@@ -108,3 +108,13 @@ body {
     margin-top: -20px;
     margin-bottom: 10px;
 }
+
+.sezione-card {
+    border: 2px solid rgba(255,255,255,0);
+    border-radius: 12px;
+    padding: 25px;
+    margin: 20px;
+    background-color: #6416BE;
+    width: 90%;
+    max-width: 500px;
+}
