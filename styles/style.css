@@ -76,7 +76,8 @@ body {
 }
 
 .pulsante-secondo {
-    background-color: white;
+    background-color: #4592FF;
+    color: white;
     padding: 15px 60px;
     border-radius: 8px;
     font-family: "DM Sans";
