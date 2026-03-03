@@ -118,6 +118,7 @@ body {
     background-color: #6416BE;
     width: 90%;
     max-width: 500px;
+    margin-bottom: 80px;
 }
 
 .paragrafo-sinistra {
@@ -149,6 +150,14 @@ body {
 }
 
 .icona-discord {
+    position: absolute;
+    top: -7%;
+    left: 10%;
+    width: 100px;
+    height: 100px;
+}
+
+.occhi-discord {
     position: absolute;
     top: -7%;
     left: 10%;
