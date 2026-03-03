@@ -130,3 +130,11 @@ body {
     line-height: 1.2;
     font-size: 21px; 
 }
+
+.discord-demo {
+    width: 100%;
+    max-width: 512px;
+    border-radius: 12%;
+    padding: 20px;
+    margin-top: 26px;
+}
