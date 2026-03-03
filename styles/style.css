@@ -53,3 +53,24 @@ body {
   line-height: 1.2;
   font-size: 21px;
 }
+
+.pulsanti {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    height: 200px;
+    margin-top: 0;
+}
+
+.pulsante {
+    background-color: white;
+    padding: 15px 60px;
+    border-radius: 8px;
+    font-family: "DM Sans";
+    font-size: 20px;
+    text-align: center;
+    cursor: pointer;
+    width: 400px;
+}
