@@ -24,6 +24,7 @@ body {
 .banner {
     width: 100%;
     max-width: 512px;
+    margin-bottom: 50px;
 }
 
 
